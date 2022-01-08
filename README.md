@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-# 🙋 Welcome
+# 🙋‍♂️ Welcome
 
 ✌️ My name is Vasyl, I am 19 years old. I am a second year student of National Technical University of Ukraine “Igor
 Sikorsky Kyiv Polytechnic Institute”, studying at the Faculty of Informatics and
