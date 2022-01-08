@@ -22,3 +22,4 @@ Computer Science.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vazzz7zzzok)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vasyl-khrapko-145161204/)
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:khrapko2002@gmail.com)
