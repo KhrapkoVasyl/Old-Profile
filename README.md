@@ -9,7 +9,6 @@ Computer Science.
 ## 📈 GitHub Stats
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhrapkoVasyl&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhrapkoVasyl&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 <!--
 ### Languages and Tools:
